@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diego Sater Teixeira</h1>
 <h3 align="center">Computer Scientist, experienced teacher, python lover</h3>
 
-- 🔭 I’m currently working on **data science**
+- 🔭 I’m currently working on **game development**
 
-- 🌱 I’m currently learning **python, data science**
+- 🌱 I’m currently learning **python, pygame, lua, Solar2D**
 
-- 👯 I’m looking to collaborate on **data science, teaching**
+- 👯 I’m looking to collaborate on **game design, game developing, teaching**
 
-- 🤝 I’m looking for help with **python, data science**
+- 🤝 I’m looking for help with **python, pygame, lua**
 
 - 💬 Ask me about **python, technology, english language**
 
